@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bbhuvaneshwaran.github.io/Yuva_fruits_salad_website/sitemap.xml
